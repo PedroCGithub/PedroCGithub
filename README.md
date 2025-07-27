@@ -8,7 +8,7 @@
 - 19 years old
 - Studying Computer Science at Mackenzie University
 - Data programmer and always studying some technology
-- Interested in Python, R, PowerBi  stuff
+- Interested in Python, R, Tableau  stuff
 
 ## 
 - 💼 I'm looking for an internship
